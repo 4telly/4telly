@@ -25,7 +25,7 @@
 <!--
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 -->
-![stats](https://github-readme-stats.vercel.app/api?username=char-al&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&no-bg=true&no-frame=true&column=4&theme=algolia)
+![stats](https://github-readme-stats.vercel.app/api?username=4telly&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=4telly&no-bg=true&no-frame=true&column=4&theme=algolia)
 
-![graph](https://activity-graph.herokuapp.com/graph?username=char-al&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+![graph](https://activity-graph.herokuapp.com/graph?username=4telly&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)

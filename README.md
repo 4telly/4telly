@@ -20,9 +20,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/4telly"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="4telly" /></a></p><br><br>
 
+
+
 <!--
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 -->
+<h3 align="left"></h3>
+
 
 ![stats](https://github-readme-stats.vercel.app/api?username=4telly&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=4telly&no-bg=true&no-frame=true&column=4&theme=algolia)
